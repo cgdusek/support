@@ -3,22 +3,23 @@ Support for iOS apps that I create.
 
 Create an issue if you have a bug with the app name or email cgdusek@gmail.com
 
-## Privacy Policy
+## Privacy Summary — Vista & VistaServer
 
-Vista respects your privacy.
+Vista and VistaServer are designed with privacy as a core principle.
 
-- Vista does **not** require an account.
-- Vista does **not** collect, store, or transmit personal information.
-- Vista does **not** use analytics, advertising, or tracking services.
+- No accounts are required
+- No personal data is collected
+- No analytics, tracking, or advertising services are used
 
 ### Video Data
-- Videos opened from local files are processed entirely on your device.
-- When using VistaServer, videos are streamed only over your local network between your devices.
+- Videos opened locally in Vista are processed entirely on your device.
+- When using VistaServer, videos are streamed only over your local network between your own devices.
 - No video content is uploaded to external servers or cloud services.
 
-### Network Access
-- Vista may access the local network when connecting to a VistaServer instance.
-- Network communication is limited to browsing and streaming video files you explicitly choose.
+### Network Use
+- Vista may access your local network to connect to VistaServer.
+- All network communication remains local and under your control.
 
-### Third Parties
-- Vista does not share data with third parties.
+Vista and VistaServer do not collect, store, or share personal information.
+
+Individual policies are in the folders.
