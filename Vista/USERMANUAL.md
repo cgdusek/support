@@ -17,14 +17,14 @@ Tap **Open** to choose a video from your device using the system Files picker.
 - Files may come from local storage or supported Files app locations
 - Videos are played entirely on-device
 
-### B. Open from VistaServer (Local Network)
-Tap **Server** to browse a video library shared by a VistaServer running on your local network.
+### B. Open from Vista Server (Local Network)
+Tap **Server** to browse a video library shared by a Vista Server running on your local network.
 
 - Vista automatically discovers available servers
 - You can also connect manually by entering a server address
 - Videos stream over your local network without being copied to your device
 
-> VistaServer is optional. If you do not use it, you can ignore the Server option and use local files only.
+> Vista Server is optional. If you do not use it, you can ignore the Server option and use local files only.
 
 ---
 
@@ -121,7 +121,7 @@ Vista automatically adjusts its field-of-view calculations based on the screen s
 - Vista does not require an account
 - No analytics or tracking services are used
 - Videos opened locally stay on your device
-- Videos streamed from VistaServer remain on your local network
+- Videos streamed from Vista Server remain on your local network
 
 ---
 
@@ -132,7 +132,7 @@ Vista automatically adjusts its field-of-view calculations based on the screen s
 - If streaming from a server, ensure the server is reachable on your network
 
 ### No Server Found
-- Make sure VistaServer is running
+- Make sure Vista Server is running
 - Ensure both devices are on the same local network
 - Try manual connection if automatic discovery does not appear
 
